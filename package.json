@@ -1,0 +1,22 @@
+{
+  "name": "simpledropdown",
+  "version": "1.0.0",
+  "description": "A simple dropdown menu where the items appear on hover and disappear after the hover",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raylopez509/simpledropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raylopez509/simpledropdown/issues"
+  },
+  "homepage": "https://github.com/raylopez509/simpledropdown#readme"
+}
