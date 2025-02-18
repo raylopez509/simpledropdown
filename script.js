@@ -21,8 +21,6 @@ function dropdown (dropdownClass,dropdownItemClass) {
       item.style.display = "none";
     } 
   } 
-
-dropdown('dropdown','dropdown-item');
-dropdown('test','item');
+}
 
 
